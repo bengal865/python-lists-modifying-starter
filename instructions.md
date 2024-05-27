@@ -18,13 +18,6 @@
 - Use short, descriptive filenames
 - Write your filenames in lowercase
 
-## Resources
-
-| Resource 1                          | Resource 2                              | Resource 3                      | 
-| -------------                       | -------------                           | -------------                   | 
-| [link](https://www.demo.com)        | [link](https://www.demo.com)            | [link](https://www.demo.com)    | 
-
-
 ## Resources & Examples
 
 - http://www.example.com
