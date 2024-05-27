@@ -12,7 +12,7 @@
 
 *Desert landscape in New Mexico.*
 
-## General Requirements
+## General Specifications
 
 - Add a comment block (name, date, project name) to your project files (HTML, CSS, JS, Python)
 - Use short, descriptive filenames
