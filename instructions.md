@@ -18,10 +18,6 @@
 - Use short, descriptive filenames
 - Write your filenames in lowercase
 
-## Due Date
-
-Monday, September 26th, 2022, by 3:00 PM.
-
 ## Resources
 
 | Resource 1                          | Resource 2                              | Resource 3                      | 
