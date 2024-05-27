@@ -24,11 +24,9 @@ Monday, September 26th, 2022, by 3:00 PM.
 
 ## Resources
 
-| MON           | TUE           | WED           | FRI           |
-| ------------- | ------------- | ------------- | ------------- |
-| Row 1 Col 1   | Row 1 Col 2   | Row 1 Col 3   | Row 1 Col 4   |
-| Row 2 Col 1   | Row 2 Col 2   | Row 2 Col 3   | Row 2 Col 4   |
-| Row 3 Col 1   | Row 3 Col 2   | Row 3 Col 3   | Row 3 Col 4   |
+| Resource 1                          | Resource 2                              | Resource 3                      | 
+| -------------                       | -------------                           | -------------                   | 
+| [link](https://www.demo.com)        | [link](https://www.demo.com)            | [link](https://www.demo.com)    | 
 
 
 ## Resources & Examples
